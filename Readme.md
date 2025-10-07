@@ -20,6 +20,10 @@ This Prestashop module intended for use for virtual products only. It shows info
 
 * Prestashop 8.X or newer
 
+# Download
+
+https://github.com/artem78/prestashop-virtualproductinfo/releases/latest
+
 # Installation
 
 In your Prestashop admin panel open "Module manager". Press "Upload a module" button. Choose zip archive with this module. After install go to module settings and enter your registration key.
