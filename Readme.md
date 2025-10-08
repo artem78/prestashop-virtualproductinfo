@@ -43,3 +43,5 @@ Zip files unpacked to temporary directory each time when product page shown. Thi
 Demin Artem (artem78)
 
 Any question or problem? Email to megabyte1024@yandex.com
+
+Or [create issue](https://github.com/artem78/prestashop-virtualproductinfo/issues) on GitHub.
