@@ -1,6 +1,6 @@
 # Virtual Product Info
 
-This Prestashop module intended for use for virtual products only. It shows information about downloadable file on product page.
+This Prestashop module intended for use for virtual products only. It shows downloadable file details on product page.
 
 # Features
 
