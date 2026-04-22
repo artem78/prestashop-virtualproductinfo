@@ -22,7 +22,7 @@ This Prestashop module intended for use for virtual products only. It shows down
 
 # Download
 
-From [release page](releases/latest)
+From [release page](https://github.com/artem78/prestashop-virtualproductinfo/releases)
 
 # Installation
 
